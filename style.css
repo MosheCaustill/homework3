@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+  }
+  header {
+    background-color: blanchedalmond;
+    height: 100px;
+    margin-bottom: 5%;
+  }
+    .headertext {
+      text-align: center;
+    }
+  .cards {
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    width: 75%;
+  }
+  .card {
+    margin: auto;
+    margin-bottom: 5%;
+  }
+  footer {
+    background-color: blanchedalmond;
+    height: 100px;
+  }
